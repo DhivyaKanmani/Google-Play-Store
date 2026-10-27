@@ -35,6 +35,4 @@ This dashboard displays application-level information, including app name, categ
 - Data Visualization
 - Interactive Dashboards
 
-## Project Objective
 
-The objective of this project is to explore Google Play Store data, identify app performance trends, and present useful insights through interactive visualizations.
